@@ -1,0 +1,27 @@
+.nav-container {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.card-container {
+    position: relative;
+}
+
+.card {
+    position: relative;
+}
+
+.badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 5;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 10;
+}
